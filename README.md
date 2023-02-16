@@ -1,7 +1,15 @@
 - 👋 Hi, I’m @JamesHarringtonDev
-- 👀 I’m interested in JavaScript, TypeScript, AWS and ways to automate dev processes
+- 👀 I’m interested in
+  - JavaScript/TypeScript
+  - Go
+  - Automating stuff with Bash
+  - Infrastructure as Code
+    - CloudFormation
+    - CDK
+    - AWS SAM
+    - Terraform
+    - Serverless Framework 
 - 🌱 I’m currently learning Bash, Typescript, AWS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
